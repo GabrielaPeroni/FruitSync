@@ -1,11 +1,11 @@
-# Banco de dados em java
+ #  <p align="center">Banco de dados em java
 
 ### <p align="center">Trabalho de Criação de um sistema em java utilizado PostgreSQL </p>
 
-#### Todos os códigos contidos nesta pasta estão relacionados a 3ª Avaliação de Nota Final - POO Java.
+#### <p align="center">Todos os códigos contidos nesta pasta estão relacionados a 3ª Avaliação de Nota Final - POO Java.<br> <br> 
 
-Alunos que participaram da criação desse projeto:
+<p align="center">Alunos que participaram da criação desse projeto:<br> 
 
-Matheus Maciel 202212017011.
+<p align="center">Matheus Maciel 202212017011.<br> 
 
-Gabriela Peroni 202202162876.
+<p align="center">Gabriela Peroni 202202162876.<br> 
